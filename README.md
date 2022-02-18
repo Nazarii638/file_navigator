@@ -4,6 +4,7 @@ The project that works as a navigator in a JSON file.
  NAVIGATION PROGRAM
  
  The program that works with user's inputs as a navigator in a JSON file.
+ 
  After launching the program displays us all possible choices(keys). After your
  input program shows another possible choices. If the type of data is dictionary
  the program prints the keys that you can choose:
